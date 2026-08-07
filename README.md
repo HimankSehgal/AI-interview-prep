@@ -13,7 +13,7 @@ No fluff. Just what actually happened.
 | Company | Role | Status |
 |---|---|---|
 | [Microsoft](./microsoft.md) | Applied Scientist 2 | ✅ Done |
-| [Amazon] | Applied Scientist 2 | 🔜 Coming Soon |
+| [Amazon] | Applied Scientist 2 | ✅ Done  |
 | [Navi] | Applied Scientist | 🔜 Coming Soon |
 | More companies | Various | 🔜 Coming Soon |
 

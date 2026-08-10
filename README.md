@@ -14,7 +14,7 @@ No fluff. Just what actually happened.
 |---|---|---|
 | [Microsoft](./microsoft.md) | Applied Scientist 2 | ✅ Done |
 | [Amazon] | Applied Scientist 2 | ✅ Done  |
-| [Navi] | Applied Scientist | 🔜 Coming Soon |
+| [Navi] | Applied Scientist | ✅ Done |
 | More companies | Various | 🔜 Coming Soon |
 
 ---

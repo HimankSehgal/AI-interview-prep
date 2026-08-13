@@ -13,8 +13,9 @@ No fluff. Just what actually happened.
 | Company | Role | Status |
 |---|---|---|
 | [Microsoft](./microsoft.md) | Applied Scientist 2 | ✅ Done |
-| [Amazon] | Applied Scientist 2 | ✅ Done  |
-| [Navi] | Applied Scientist | ✅ Done |
+| [Amazon](./amazon.md) | Applied Scientist 2 | ✅ Done  |
+| [Navi](./navi.md)  | Applied Scientist | ✅ Done |
+| [Meesho](./meesho.md)  | Data Scientist | ✅ Done |
 | More companies | Various | 🔜 Coming Soon |
 
 ---

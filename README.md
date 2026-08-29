@@ -16,7 +16,8 @@ No fluff. Just what actually happened.
 | [Amazon](./amazon.md) | Applied Scientist 2 | ✅ Done  |
 | [Navi](./navi.md)  | Applied Scientist | ✅ Done |
 | [Meesho](./meesho.md)  | Data Scientist | ✅ Done |
-| [Sprinklr](./sprinklr.md)  | Data Scientist | ✅ Done |
+| [Sprinklr](./sprinklr.md)  | Machine Learning Engineer | ✅ Done |
+| [Swiggy](./sprinklr.md)  | Data Scientist 2| ✅ Done |
 | More companies | Various | 🔜 Coming Soon |
 
 ---
